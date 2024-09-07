@@ -1,6 +1,6 @@
 # Tic Tac Toe
 
-A simple game made using React js.
+A simple Tic Tac Toe game built using React.js, featuring two-player functionality, win/draw detection, and a reset button for game restarts.
 
 ## Table of Contents
 
